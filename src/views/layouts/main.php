@@ -61,8 +61,7 @@
 <nav class="navbar navbar-expand-lg mb-4">
     <div class="container">
         <a class="navbar-brand d-flex align-items-center" href="/">
-            <img src="/logo.png" alt="OSRS Status Logo" height="90" class="d-inline-block me-2">
-            <span>OSRS Status</span>
+            <img src="/logo.png" alt="OSRS Logo" height="90" class="d-inline-block me-2">
         </a>
         <div>
             <a href="/api/status" class="btn btn-outline-primary btn-sm me-2" target="_blank">API</a>
